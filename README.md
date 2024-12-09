@@ -19,13 +19,13 @@ Além disso oferecemos links para trailers oficiais de cada filme do Homem-Aranh
 <p> A navegação é intuitiva e fácil de usar, com menus e botões claramente marcados. O conteúdo é organizado de forma clara e concisa, facilitando a busca por informações sobre os filmes. O site também conta com recursos interativos, como vídeos e galerias de fotos, que tornam a experiência do usuário mais envolvente e divertida. </p>
 
 <div align = "center">
-<h2><a href="" target="_blank"> Acesse Agora </a></h2>
+<h2><a href="https://spider-man-multiverso-sepia.vercel.app/" target="_blank"> Acesse Agora </a></h2>
 
-<p> <img src="" alt="Home Page do site versão desktop"> </p>
+<p> <img src="https://github.com/Alxcostta/spider-man-multiverso/blob/main/assets/imagens/projeto-final/versaodesktop.png" alt="Home Page do site versão desktop"> </p>
 <p> Home Page do site <p>
 
-<p> <img src="" alt="Home Page do site com efeito visual 3D"> </p>
+<p> <img src="https://github.com/Alxcostta/spider-man-multiverso/blob/main/assets/imagens/projeto-final/homepage.png" alt="Home Page do site com efeito visual 3D"> </p>
 <p> Home Page do site com efeito visual 3D <p>
 
-<p> <img src="" alt="Home Page do site"> </p>
+<p> <img src="https://github.com/Alxcostta/spider-man-multiverso/blob/main/assets/imagens/projeto-final/internalpage.png" alt="Home Page do site"> </p>
 <p> Página interna do ator Tom Holland <p>
